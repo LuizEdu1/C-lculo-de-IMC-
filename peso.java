@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class App { 
+public class Main { 
     public static void main(String[] args) {
         var teclado = new Scanner (System.in);
         double peso, altura, imc;
